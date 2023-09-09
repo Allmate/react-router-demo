@@ -1,0 +1,17 @@
+/*
+create-react-app react-router-dom => finsihed
+install react-router => finshed
+
+1.configuring routes => finished
+2. Link => finished
+3. navigating programmatically => finished
+4. no match route => finished
+5. nested routes => finished
+6. index route => finished
+7. dynamic routes => finished
+8. URL params => finished
+9. search params => finished
+10.lazy loading => finished
+11. authentication & protected routes => finished
+
+*/

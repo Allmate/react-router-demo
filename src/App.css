@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+a.nav-link.active {
+    text-decoration: underline;
+}
+
+.clickable {
+    cursor: pointer;
+}
